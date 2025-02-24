@@ -1,7 +1,11 @@
-# Usage: python3 search_yt.py <keyword>
-# sp
-# python3 yt.py "keyword tools"
-# sample Results :wd,volum
+
+# use
+```
+#Usage: python3 search_yt.py <keyword>
+python3 yt.py "keyword tools"
+```
+# sample Results : wd,volum
+```
 #wd,volum
 #keyword tools,10510854 Results
 #keyword research chatgpt,877234 Results
@@ -73,6 +77,7 @@
 #keyword research tool for youtube,4149103 Results
 #keyword research bangla,1144559 Results
 ...
+```
 ## todo
 # add cpc
 # add who is blow up (small channel)
