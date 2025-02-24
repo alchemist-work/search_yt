@@ -82,5 +82,7 @@ python3 yt.py "keyword tools"
 ```
 # add cpc
 # add who is blow up (small channel)
+# add Difficulty Analysis
+# add Competitor Analysis
 # ...
 ```
