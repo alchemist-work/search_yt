@@ -4,7 +4,7 @@
 #Usage: python3 search_yt.py <keyword>
 python3 yt.py "keyword tools"
 ```
-# sample Results : wd,volum
+# sample Results : target words, Search volume
 ```
 #wd,volum
 #keyword tools,10510854 Results
