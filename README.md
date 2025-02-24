@@ -1,8 +1,7 @@
 # Usage: python3 search_yt.py <keyword>
 # sp
 # python3 yt.py "keyword tools"
-# wd,volum
-`
+# sample Results :wd,volum
 keyword tools,10510854 Results
 keyword research chatgpt,877234 Results
 keyword research tutorial,4906797 Results
@@ -44,5 +43,3 @@ best free keyword research tool,3020914 Results
 free keyword research tool for youtube,3488557 Results
 best tools for keyword research,2804489 Results
 keyword research chatgpt,877571 Results
-
-`
